@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 Minecraft Version : 1.16.5
 
-Border :  2500 Block x 2500 Block
+Border :  4000 block
 
-Server : Paper
+Server : Parpur x Bungeecord
 
 seed : -
 
