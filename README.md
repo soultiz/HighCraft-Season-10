@@ -1,6 +1,6 @@
-# HighCraftUHC SSIX 🔥
+# HighCraftUHC SS IX 🔥
 ________________________________________________________________________________
-# Infomation | HighCraftUHC SS9 📡
+# Infomation | HighCraftUHC SS10 📡
 
 Minecraft Version : 1.16.5
 
