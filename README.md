@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 Minecraft Version : 1.16.5
 
-Border :  4000 bx 4000
+Border :  4000 x 4000
 
-Server : Parpur x Bungeecord
+Server : Purpur x Bungeecord
 
 seed : -
 
