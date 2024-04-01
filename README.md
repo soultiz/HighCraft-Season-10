@@ -1,4 +1,4 @@
-                                                                                                                                       
+ติด                                                                                                                                       
 # HighCraftUHC SS X 🔥
 ________________________________________________________________________________
 # Infomation | HighCraftUHC SS10 📡
@@ -43,22 +43,8 @@ ________________________________________________________________________________
 
 Staff
 
- • PetchTH
+ • PetchTH   GuskungTH   Hoog007   TaeKungzZ
 
- • GuskungTH
-
- • Hoog007
-
- • TaeKungzZ
-
- • imanzaza
-
- • souljix
-
-Special Thanks
-
- • ItsFlixZer
-
- • Kanruethai / KayleePK
+ • imanzaza  souljix     ItsFlixZer    Kanruethai / KayleePK
 
 ________________________________________________________________________________
