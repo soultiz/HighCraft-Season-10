@@ -11,13 +11,17 @@ Server : Purpur x Bungeecord
 
 seed : -
 
-Organizer : Soultiz Ch x IMZ Team 
+Organizer : Souljix x IMZ Team 
 ________________________________________________________________________________
 # - System Information 🖥️
 ________________________________________________________________________________
-# Aona VPS
+# Microsoft Azure
 
-Update Soon !
+CPU : Intel Xeon Platinun 8123C 2.80GHz
+Ram : 64GB
+Storage : 300GB
+Network : 1Gbps / 1Gbps
+
 ________________________________________________________________________________
 # Datapack Server List 📃
 
