@@ -45,6 +45,6 @@ Staff
 
  • PetchTH   GuskungTH   Hoog007   TaeKungzZ
 
- • imanzaza  souljix     ItsFlixZer    Kanruethai / KayleePK
+ • imanzaza  souljix     ItsFlixZer    KayleePK
 
 ________________________________________________________________________________
