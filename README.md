@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 # Microsoft Azure
 
-CPU : Intel Xeon Platinun 8123C 2.80GHz
+CPU : Intel Xeon Platinun 8370C 2.80GHz
 
 Ram : 64GB
 
@@ -39,7 +39,25 @@ ________________________________________________________________________________
 Update Soon !
 ________________________________________________________________________________
 
-More infomations
-Discord : Soon!
+# Staff / Back-End Developer Credit
+
+Staff
+ • PetchTH
+
+ • GuskungTH
+
+ • Hoog007
+
+ • TaeKungzZ
+
+ • imanzaza
+
+ • souljix
+
+Special Thanks
+
+ • ItsFlixZer
+
+ • Kanruethai / KayleePK
 
 ________________________________________________________________________________
