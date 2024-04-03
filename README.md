@@ -1,11 +1,11 @@
-ติด                                                                                                                                       
+                                                                                                                                      
 # HighCraftUHC SS X 🔥
 ________________________________________________________________________________
 # Infomation | HighCraftUHC SS10 📡
 
 Minecraft Version : 1.16.5
 
-Border :  4000 x 4000
+Border :  4000 Block
 
 Server : Purpur x Bungeecord
 
@@ -45,6 +45,6 @@ Staff
 
  • PetchTH   GuskungTH   Hoog007   TaeKungzZ
 
- • imanzaza  souljix     ItsFlixZer    KayleePK
+ • imanzaza  souljix     ItsFlixZer    KayleePK   RcnTee   Asuraz047   ibukii   bokchoyly  AirpicnoobEZ  Aomsin   MineopoDev
 
 ________________________________________________________________________________
