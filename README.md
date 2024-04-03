@@ -45,6 +45,8 @@ Staff
 
  • PetchTH   GuskungTH   Hoog007   TaeKungzZ
 
- • imanzaza  souljix     ItsFlixZer    KayleePK   RcnTee   Asuraz047   ibukii   bokchoyly  AirpicnoobEZ  Aomsin   MineopoDev
+ • imanzaza  souljix     ItsFlixZer    KayleePK   
+
+ • Asuraz047   ibukii   bokchoyly  AirpicnoobEZ  Aomsin   MineopoDev
 
 ________________________________________________________________________________
