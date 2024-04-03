@@ -25,6 +25,8 @@ Storage : 300GB
 
 Network : 1Gbps / 1Gbps
 
+OS : Windows 10 Pro
+
 ________________________________________________________________________________
 # Datapack Server List 📃
 
