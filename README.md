@@ -17,28 +17,47 @@ ________________________________________________________________________________
 ________________________________________________________________________________
 # Microsoft Azure
 
-CPU : Intel Xeon Platinun 8370C 2.80GHz
+CPU : AMD EPYC 7763 64Core Processor 2.80GHz
 
 Ram : 64GB
 
 Storage : 300GB
 
-Network : 1Gbps / 1Gbps
+Network : 3Gbps / 3Gbps
 
-OS : Windows 10 Pro
+OS : Windows Server 2019
 
 ________________________________________________________________________________
 # Datapack Server List 📃
 
-Update Soon !
+- deathchese
+
+- HighCraft UHC Utils
+
+- Team Elimination
+
+- fast leaf decay
 ________________________________________________________________________________
 # Plugin Server List 📃
 
-Update Soon !
+- Chunky
+
+- GoldenHeads
+  
+- Biome Bundle Reloaded
+
+- Spark
+
+- OpenTerrainGenerator
+
+- worldedit
+
+- HighCraftUHC [Private]
+
 ________________________________________________________________________________
 # Player / Team 📃
 
-Update Soon !
+Google Sheets : 
 ________________________________________________________________________________
 
 # Staff / Back-End Developer Credit
