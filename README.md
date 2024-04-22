@@ -58,6 +58,7 @@ ________________________________________________________________________________
 # Player / Team 📃
 
 Google Sheets : 
+https://docs.google.com/document/d/1biPEnPEfE1ZsvXenBHzQ9OPM733zwzxldyvb8xY65ZU/edit?usp=sharing
 ________________________________________________________________________________
 
 # Staff / Back-End Developer Credit
